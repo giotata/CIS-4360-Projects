@@ -1,0 +1,19 @@
+jnj
+real = 151
+fair = 108
+
+aapl
+real = 176
+fair = 100
+
+baba
+real = 85
+fair = 1879
+
+tsla
+real = 219
+fair = 16
+
+nvda
+real = 450
+fair = 817

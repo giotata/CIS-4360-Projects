@@ -1,0 +1,2 @@
+# Technical Analysis Program
+The goal of this project was to reinforce and implement what I had learned in class related to technical analysis. I implemented a Fetcher class to download daily closing stock price using the Yahoo finance library. The Fetcher class retrieves stock data from yahoofinance and stores it in an SQL database. I also create a technical analysis library based on pandas. Code templates were provided by professor Pang to get us started.

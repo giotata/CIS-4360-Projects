@@ -1,0 +1,2 @@
+# Fair Value Calculator
+The goal of this project was to reinforce and implement what I had learned in class related to fundamental analysis. I implemented a class to calculate the fair value of a company based on discounted cashflow model, and then used it to compare the valuations of 5 different companies. I also made a report recommending a stock to sell based on this comparison. Code templates were provided by professor Pang to get us started.
